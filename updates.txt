@@ -1,0 +1,76 @@
+categories - 
+1.buy 
+2.rent
+
+database-
+*property table-
+column iwantto(rent/sell)
+Property Category(Residential)
+Property Type Apartment Independent Floor Independent House Villa
+Select BHK
+1 RK
+1 BHK
+2 BHK
+3 BHK
+4 BHK
+5 BHK
+6 BHK
+7 BHK
+8 BHK
+9 BHK
+10 BHK
+
+Furnish Type-
+Fully Furnished
+Semi Furnished
+Unfurnished
+
+available from
+monthly rent
+maintenance charges
+brokerage
+security deposit
+biuld up area
+carpet area(optional)
+
+
+city 
+building/project/society(optional)
+locality 
+flat no floor no total floor
+addqress
+photo with img rooms
+status
+
+Preferred Tenant Type-
+Family
+Bachelors
+Company
+
+ 
+add column obro
+add column category(rent/buy)
+	change street to locality
+add column feature	(township studio	ready to movein)
+
+search locality
+
+*user table
+phonenumber
+verifed
+city
+about(broker owner builder)enum
+name
+email
+firm name
+in business since
+project name
+firm email
+password
+
+
+
+register-
+phonenumber auth with otp ->verify user
+facebook auth 
+google auth
