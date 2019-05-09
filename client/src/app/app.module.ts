@@ -10,6 +10,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { PagesModule } from './pages/pages.module';
 
+
 //komponente
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './pages/header/header.component';

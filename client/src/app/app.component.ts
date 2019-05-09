@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+
+platformBrowserDynamic().bootstrapModule(AppModule);
 @Component({
   selector: 'app-root',
   template: `

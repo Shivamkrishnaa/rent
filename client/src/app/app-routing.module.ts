@@ -4,6 +4,9 @@ import { PagesModule } from './pages/pages.module';
 import { UsersModule } from './users/users.module';
 import { PropertiesModule } from './properties/properties.module';
 import { AdminModule } from './admin/admin.module';
+import {enableProdMode} from '@angular/core';
+
+
 
 import { NotFoundComponent } from './pages/not-found/not-found.component';
 
